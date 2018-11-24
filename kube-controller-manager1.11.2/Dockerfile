@@ -1,0 +1,2 @@
+FROM gcr.io/google_containers/kube-controller-manager:v1.11.2
+MAINTAINER yangli
